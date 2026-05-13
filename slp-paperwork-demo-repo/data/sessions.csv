@@ -1,0 +1,4 @@
+student_id,student_initials,campus,date_of_service,service_type,delivery_model,minutes,attendance,goal_area,note_status,billing_code,payer_program,billed,signed,notes
+S-001,J.D.,North Elementary,2026-05-01,Speech therapy,Individual,30,Seen,Articulation,Complete,92507,Medicaid,No,Yes,Use aliases only in real data.
+S-002,A.M.,North Elementary,2026-05-02,Language therapy,Group,45,Seen,Expressive language,Draft,92507,Medicaid,No,No,Needs final note.
+S-003,R.K.,South Elementary,2026-05-03,Consult,Consult,15,Makeup,Pragmatics,Complete,92508,District,Yes,Yes,
