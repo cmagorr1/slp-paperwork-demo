@@ -1,0 +1,3 @@
+student_id,student_initials,campus,eval_type,consent_or_referral_date,report_due_date,ard_due_date,parent_input,teacher_input,observation,testing,scores,draft,final,status,notes
+S-004,L.P.,South Elementary,FIIE,2026-08-10,2026-09-29,2026-10-29,No,Yes,Yes,No,No,No,No,In progress,Fake eval sample
+S-005,T.B.,West Elementary,Reevaluation,2026-08-22,2026-09-22,2026-10-22,Yes,Yes,Yes,Yes,No,No,No,Drafting,Need scores entered

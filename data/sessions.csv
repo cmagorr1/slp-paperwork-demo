@@ -1,0 +1,5 @@
+student_id,student_initials,campus,date_of_service,service_type,minutes,attendance,note_status,billed,source,external_session_id,notes
+S-001,J.D.,North Elementary,2026-08-24,Speech therapy,30,Seen,Complete,No,SLP Toolkit,fake-001,Ready to bill
+S-002,A.M.,North Elementary,2026-08-24,Language therapy,45,Seen,Draft,No,SLP Toolkit,fake-002,Needs note
+S-003,R.K.,South Elementary,2026-08-25,Consult,15,Makeup,Complete,Yes,SLP Toolkit,fake-003,Already billed
+S-004,L.P.,South Elementary,2026-08-26,Speech therapy,30,Absent,Not started,No,SLP Toolkit,fake-004,Absent

@@ -1,0 +1,2 @@
+student_id,student_initials,campus,form_kind,start_or_exit_date,due_date,using_eval_data,teacher_info_collected,parent_info_collected,observation_data_collected,form_drafted,form_submitted,status,notes
+S-009,P.K.,Pre-K Center,Entry,2026-08-20,2026-09-19,Yes,No,No,Yes,No,No,In progress,Fake COSE/COSF sample
